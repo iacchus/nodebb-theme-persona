@@ -1,14 +1,14 @@
 {
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-thewizardsclub",
   "version": "5.0.20",
   "nbbpm": {
     "compatibility": "^1.4.4"
   },
-  "description": "Persona theme for NodeBB",
+  "description": "TheWizardsClub theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/iacchus/nodebb-theme-thewizardsclub"
   },
   "keywords": [
     "nodebb",
@@ -36,6 +36,6 @@
   ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+    "url": "https://github.com/iacchus/nodebb-theme-thewizardsclub/issues"
   }
 }
