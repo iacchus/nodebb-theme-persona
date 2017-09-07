@@ -1,3 +1,6 @@
+package.json
+plugin.json
+
 *.css
 !less/bootstrap-flipped.css
 npm-debug.log
