@@ -461,7 +461,7 @@
 			}
 
 			code {
-				padding: 2px 1px;
+				padding: 0px 2px;
 				color: white;
 				background-color: @gray-dark;
 				border-radius: 2px;
@@ -484,17 +484,21 @@
 
 			pre {
 				//max-height: 350px;
+				background-color: #eee;
+				border: 1px solid #ddd;
 
 				code {
 					white-space: pre;
 					word-wrap: normal;
 					min-width: 100%;
+					color: @gray-dark;
+					background-color: none;
 				}
 			}
 
 			@media (max-width: @screen-sm-min) {
 				pre {
-					max-height: 250px;
+					//max-height: 250px;
 				}
 			}
 		}
